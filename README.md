@@ -1,1 +1,2 @@
 # fun-translator
+So far this fun little translator only supports translation from standard alphabetical text to a "japanese" language inspired by an image that's been floating around on 9GAG lately.  Hoping to add support for more fun later.
